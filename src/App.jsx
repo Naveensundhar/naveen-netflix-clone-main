@@ -112,7 +112,7 @@ const App = () => {
             <p>Contact Us</p>
           </div>
         </div>
-        <p className="text-center mt-6">© 2025 Netflix Clone. Built with ❤️ by Krishna Sree</p>
+        <p className="text-center mt-6">© 2025 Netflix Clone. Built with ❤️ by Naveen Sundhar</p>
       </footer>
     </div>
   );
